@@ -12,3 +12,22 @@
 
 #### Waarvan zou ik nog meer willen leren?
   ik zou graag nog meer leren over git wat je ermee kan en wat niet. ook ozu ik graag beter willen worden in de git commands en ze meer uit me hoofd leren.
+
+# Arturo
+
+![Arturo](arturo.jpg)
+
+#### Wat heb ik deze lessen nieuw geleerd?
+
+Hoe je met github kan werken. Het allereerste hoe je branches maakt, en wat de main is. Hoe je via branches kan navigeren en push, pullen en commiten.
+Markdown in de README.md bewerken en opslaan.
+
+
+#### Wat wist ik al?
+
+Waarvoor je github gebruikt in het bedrijfsleven. 
+
+
+#### Waarvan zou ik nog meer willen weten?
+
+Meer commando's die in het bedrijfleven belangrijk kunnen zijn. En al het werk makkelijk voor mij maken.
