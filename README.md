@@ -1,4 +1,5 @@
 # reflectie-opdracht
+![ikke](download.jpeg)
 ## Christian Haan
 
 #### Wat heb ik met deze lessen geleerd?
