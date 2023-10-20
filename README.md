@@ -19,7 +19,7 @@
 
 ## Julian Kreike
 
-![eigennaam](https://www.google.com/search?sca_esv=575180918&sxsrf=AM9HkKlb9l9TmXCNYpA2CQsWwJmlSaMHbQ:1697805579673&q=boom&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjD6uTT0oSCAxWqgv0HHb5QDewQ0pQJegQIDRAB&biw=1536&bih=707&dpr=1.25#imgrc=6yM_u9AEQQlElM)
+![eigennaam](image.png)
 
 1. Wat heb ik met deze lessen geleerd?
 **Antwoord:** Ik heb geleerd om te kunnen werken met git waaronder: git add,git commit,git pull,git push,git merge en met branches kunnen werken.
